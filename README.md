@@ -3,19 +3,24 @@ Welcome to my Data Science Portfolio! This repository serves as a comprehensive 
 
 Features:
 
-    -Portfolio Overview: A quick snapshot of all projects, making it easy for visitors to get a sense 
+    -Portfolio Overview: A quick snapshot of all projects, 
+    making it easy for visitors to get a sense 
     of the breadth and depth of my work.
 
-    -Project Breakdown: Each project is accompanied by a brief description, key technologies/tools used, and a link to 
+    -Project Breakdown: Each project is accompanied by a brief description,
+    key technologies/tools used, and a link to 
     dive deeper if it has its dedicated repository.
 
-    -Visual Demonstrations: Wherever possible, I've included visualizations, GIFs, or screenshots 
+    -Visual Demonstrations: Wherever possible, I've included visualizations,
+    GIFs, or screenshots 
     to give a quick glimpse of the project outcomes.
 
-    -Technical Proficiencies: A section dedicated to showcasing my expertise in various tools, languages, and methodologies 
+    -Technical Proficiencies: A section dedicated to showcasing my expertise in various tools, 
+    languages, and methodologies 
     common in the data science industry.
 
-    -Contact & Collaboration: Details on how to get in touch with me for collaboration, questions, 
+    -Contact & Collaboration: Details on how to get in touch with me
+    for collaboration, questions, 
     or potential opportunities.
 
 Whether you're an employer, a fellow data professional, or just curious, I invite you to explore and provide feedback. If you find any of my projects intriguing or wish to collaborate, please don't hesitate to reach out. Thank you for visiting!
