@@ -28,3 +28,7 @@ A collection of projects focused on improving my ability to utilize statistics t
 [Excel Projects](https://github.com/cantr1/DataScience/tree/main/Excel)
 
 A collection of projects created in Excel. This includes visualizations, pivot charts, and dashboards.
+
+[Python Projects](https://github.com/cantr1/DataScience/tree/main/Python)
+
+A collection of projects created with Python. The primary libraries used are MatPlotLib and Seaborn.
