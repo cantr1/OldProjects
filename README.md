@@ -25,6 +25,6 @@ A collection of SQL projects focused on solving realistic business problems and 
 
 A collection of projects focused on improving my ability to utilize statistics to make informed business decisions.
 
-[Excel Projects](https://github.com/cantr1/DataSciencePortfolio/tree/main/Excel)
+[Excel Projects](https://github.com/cantr1/DataScience/tree/main/Excel)
 
 A collection of projects created in Excel. This includes visualizations, pivot charts, and dashboards.
