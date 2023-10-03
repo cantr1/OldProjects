@@ -17,7 +17,7 @@ Whether you're an employer, a fellow data professional, or just curious, I invit
 
 Projects:
 
-[SQL Projects](https://github.com/cantr1/DataSciencePortfolio/tree/main/SQL%20Projects)
+[SQL Projects](https://github.com/cantr1/DataScience/tree/main/SQL%20Projects)
 
 A collection of SQL projects focused on solving realistic business problems and generating insights and solutions.
 
