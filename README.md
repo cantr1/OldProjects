@@ -21,7 +21,7 @@ Projects:
 
 A collection of SQL projects focused on solving realistic business problems and generating insights and solutions.
 
-[Statistics Projects](https://github.com/cantr1/DataSciencePortfolio/tree/main/Statistics)
+[Statistics Projects](https://github.com/cantr1/DataScience/tree/main/Statistics)
 
 A collection of projects focused on improving my ability to utilize statistics to make informed business decisions.
 
