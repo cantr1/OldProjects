@@ -87,6 +87,24 @@ Advancing data science through the power of Python.
         
   Objective: Showcase the versatility of Python in handling various data science tasks, from basic data manipulation to advanced predictive modeling.
 
+[Tableau Projects](https://github.com/cantr1/DataSciencePortfolio/tree/main/Tableau)
+
+Unfolding data narratives through the artistry of Tableau.
+
+Overview: Dive into a collection of projects that leverage the robust capabilities of Tableau. 
+Witness the transformation of raw data into meaningful insights. Highlights include:
+
+    Data Integration and Preprocessing: Harnessing the power of Tableau Prep to clean, shape, 
+    and combine data from diverse sources.
+
+    Visual Dashboards: Crafting interactive and visually captivating dashboards 
+    that resonate with stakeholders using Tableau Desktop.
+
+    Temporal Data Exploration: Delving into trends, cycles, and patterns 
+    with time series visualizations.
+
+Objective: To exemplify the transformative power of Tableau in turning data points into stories, from simple visual explorations to complex data-driven narratives.
+
 Contact:
 
 Feel free to reach out to me via email (knc97a@gmail.com) or via LinkedIn (https://www.linkedin.com/in/kelly-cantrell-78352517a/)
