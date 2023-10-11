@@ -3,23 +3,23 @@ Welcome to my Data Science Portfolio! This repository serves as a comprehensive 
 
 Features:
 
-    -Portfolio Overview: A quick snapshot of all projects, 
+    Portfolio Overview: A quick snapshot of all projects, 
     making it easy for visitors to get a sense 
     of the breadth and depth of my work.
 
-    -Project Breakdown: Each project is accompanied by a brief description,
+    Project Breakdown: Each project is accompanied by a brief description,
     key technologies/tools used, and a link to 
     dive deeper if it has its dedicated repository.
 
-    -Visual Demonstrations: Wherever possible, I've included visualizations,
+    Visual Demonstrations: Wherever possible, I've included visualizations,
     GIFs, or screenshots 
     to give a quick glimpse of the project outcomes.
 
-    -Technical Proficiencies: A section dedicated to showcasing my expertise in various tools, 
+    Technical Proficiencies: A section dedicated to showcasing my expertise in various tools, 
     languages, and methodologies 
     common in the data science industry.
 
-    -Contact & Collaboration: Details on how to get in touch with me
+    Contact & Collaboration: Details on how to get in touch with me
     for collaboration, questions, 
     or potential opportunities.
 
@@ -34,11 +34,11 @@ A dive into relational databases and data manipulation.
   Overview: A comprehensive collection of SQL projects where I harness the power of structured query language to extract, manipulate, and analyze data from various databases.
     Highlights:
     
-        Data normalization for efficient querying.
+    Data normalization for efficient querying.
         
-        Designing complex queries to solve real-world business problems.
+    Designing complex queries to solve real-world business problems.
         
-        Performance optimization and index utilization.
+    Performance optimization and index utilization.
         
   Objective: Focus on solving realistic business problems, generating actionable insights, and developing scalable data solutions.
 
@@ -49,11 +49,11 @@ Empowering data-driven decisions through statistical analysis.
   Overview: Projects that leverage statistical methods and tools to interpret, analyze, and represent data in meaningful ways.
     Highlights:
     
-        Hypothesis testing and confidence intervals.
+    Hypothesis testing and confidence intervals.
         
-        Exploratory data analysis for pattern detection.
+    Exploratory data analysis for pattern detection.
         
-        Regression analysis and predictive modeling.
+    Regression analysis and predictive modeling.
         
   Objective: Improve my ability to utilize statistics to make informed business decisions, validating hypotheses, and forecasting trends.
 
@@ -64,13 +64,31 @@ Mastering the art of spreadsheet analytics.
   Overview: A versatile range of projects showcasing my proficiency in Microsoft Excel's analytical and visualization capabilities.
     Highlights:
     
-        Building interactive dashboards to represent KPIs.
+    Building interactive dashboards to represent KPIs.
         
-        Utilizing pivot tables and charts for multidimensional data analysis.
+    Utilizing pivot tables and charts for multidimensional data analysis.
         
-        Advanced formulae for automating repetitive tasks and dynamic reporting.
+    Advanced formulae for automating repetitive tasks and dynamic reporting.
         
   Objective: Demonstrate how Excel can be a powerful tool for data analysis, representation, and decision-making in a business context.
+
+[Data Cleaning Projects](https://github.com/cantr1/DataSciencePortfolio/tree/main/DataCleaning)
+
+Perfecting the Craft of Data Cleaning.
+
+Overview: A diverse portfolio of projects emphasizing my expertise in data preprocessing and cleaning using various tools, including Microsoft Excel.
+
+Highlights:
+
+    Rectifying data inconsistencies and standardizing formats for seamless integration.
+  
+    Implementing advanced techniques to identify and handle missing data points.
+  
+    Employing data validation methods to ensure accuracy and reliability in datasets.
+  
+    Automated data transformation tasks to maintain data quality over time.
+
+Objective: Highlight the significance of clean and consistent data as the foundation for any analytical endeavor, ensuring reliability and trustworthiness in business analytics and decision-making processes.
 
 [Python Projects](https://github.com/cantr1/DataScience/tree/main/Python)
 
@@ -79,11 +97,11 @@ Advancing data science through the power of Python.
   Overview: Projects that tap into Python's extensive libraries and tools to analyze, visualize, and interpret data.
     Highlights:
     
-        Data cleaning and preprocessing using Pandas.
+    Data cleaning and preprocessing using Pandas.
         
-        Visual storytelling using MatPlotLib and Seaborn.
+    Visual storytelling using MatPlotLib and Seaborn.
         
-        Time series analysis and forecasting.
+    Time series analysis and forecasting.
         
   Objective: Showcase the versatility of Python in handling various data science tasks, from basic data manipulation to advanced predictive modeling.
 
