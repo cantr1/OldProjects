@@ -1,0 +1,10 @@
+#!/bin/bash
+# Desc: This script pings a remote server and returns if the host is up
+
+ping -c1 192.168.1.1
+	if [ $? -eq 0 ]
+	then
+	echo HOST IS ACTIVE
+	else
+	echo HOST UNREACHABLE
+	fi
